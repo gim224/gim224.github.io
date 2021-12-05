@@ -9,12 +9,8 @@
 #--------------------------
 
 title: 코딩찌개 # the main title
+tagline:  김기태(gt.kim devLogs) # it will display as the sub-title
 
-tagline: >-  # it will display as the sub-title
-  김기태(gt.kim devLogs)
-  #개발 교육자가 될.
-
-#
 description: >-                        # used by seo meta and the atom feed
   개발교육자가 되고 싶은 김기태(gt.kim)
 
