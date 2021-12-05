@@ -9,7 +9,7 @@
 #--------------------------
 
 title: 코딩찌개 # the main title
-tagline:  김기태(gt.kim devLogs) # it will display as the sub-title
+tagline:  김기태(gt.kim devLogs)<br/>개발교육자가 될. # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   개발교육자가 되고 싶은 김기태(gt.kim)
@@ -24,15 +24,15 @@ avatar: /assets/img/favicons/ms-icon-310x310.png   # support internet resources
 github:
   username: gim224             # change to your github username
 
-#twitter:
-#  username: twitter_username            # change to your twitter username
+twitter:
+  username: twitter_username            # change to your twitter username
 
 social:
   name: gt.kim                  # it will shows as the copyright owner in Footer
   email: gtgt.kim@kakao.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/gim224       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
