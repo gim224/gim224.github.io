@@ -1,14 +1,13 @@
 ---
-title: About
-icon: fas fa-info
+# the default layout is 'page'
+icon: fas fa-info-circle
 order: 4
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
 ---
+
+<!-- 
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip } 
+-->
 
 # 🙋‍♂️About Me
 
@@ -84,4 +83,3 @@ order: 4
     문제를 해결하기 위해 개발 내외로 끊임없이 고민하는 사람.    
  */
  ```
-
