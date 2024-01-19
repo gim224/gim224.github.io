@@ -59,6 +59,11 @@
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
           {%- endcapture -%}
+        <!--custom: tistory 추가(2024-01-19)-->
+        {% when 'tistory' %}
+          {%- capture url -%}
+            https://{{ site[entry.type].username }}.{{ entry.type }}.com/  
+          {%- endcapture -%}
         {% when 'email' %}
           {% assign email = site.social.email | split: '@' %}
           {%- capture url -%}
