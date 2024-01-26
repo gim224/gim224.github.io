@@ -33,8 +33,6 @@ mermaid: true
 
 # 💬Work Experience & Projects
 
-## 실무 프로젝트
-
 ```mermaid
 
  gantt
@@ -56,10 +54,10 @@ mermaid: true
 
 | 프로젝트명 | 내용 | 기간 |
 |:---|:---|---:|
-| **신세계아이앤씨 ERP 시스템 구축**   | SAP <br/><br/> UI5, ABAP   | 2021.11 ~ 2024.02   |
-| **철도시설 이력관리 종합정보시스템 구축용역**   | <br/><br/> Java, Spring Framework   | 2021.11 ~ 2023.03   |
-| **세종시 3단계 1-2차 스마트도시 구축용역**   | <br/><br/> React, Java, Spring Framework   | 2021.10 ~ 2022.11   |
-| **철도시설 이력관리 종합정보시스템 구축용역**   | <br/><br/> Java, Spring Framework   | 2018.07 ~ 2021.10   |
+| **신세계아이앤씨 ERP 시스템 구축**   | SAP <br/><br/> UI5, ABAP   | 2023.06 ~ 2024.02   |
+| **철도시설 이력관리 종합정보시스템 구축용역**   | <br/><br/> Java, Spring Framework   | 2022.11 ~ 2023.03   |
+| **세종시 3단계 1-2차 스마트도시 구축용역**   | <br/><br/> React, Java, Spring Framework   | 2021.10 ~ 2022.10   |
+| **철도시설 이력관리 종합정보시스템 구축용역**   | <br/><br/> Java, Spring Framework   | 2018.07 ~ 2021.09   |
 | **김포도시철도 IT설비(역무자동화)**   | 인턴십 <br/><br/>   | 2018.03 ~ 2018.06   |
 
 
@@ -67,7 +65,8 @@ mermaid: true
 
 | 프로젝트명 | 내용 | 기간 |
 |:---|:---|---:|
-| [**수주내역 분석 프로그램**](https://gim224.github.io/posts/%EC%88%98%EC%A3%BC%EB%82%B4%EC%97%AD-%EB%B6%84%EC%84%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/)   | <br/><br/> Python | 2023.11. ~ 2023.12.   |
+| [**수주내역 분석 프로그램**](https://gim224.github.io/posts/%EC%88%98%EC%A3%BC%EB%82%B4%EC%97%AD-%EB%B6%84%EC%84%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/)   | <br/><br/> Python | ?? 2023.11. ~ 2023.12.   |
+| **온습도알리미**   | <br/><br/> Raspberry Pi, Spring Boot, Python | ?? 2018.06. ~ 2018.06.   |
 
 
 
